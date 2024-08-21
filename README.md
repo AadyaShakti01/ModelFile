@@ -1,7 +1,7 @@
 # ModelFile
 "HumorBot is a sharp-witted AI designed to deliver quick, clever humor and light-hearted sarcasm. It adapts to your mood, providing punchy jokes and insightful advice in both Hindi and English, making conversations both entertaining and meaningful."
 
-# Open WebUI Link : 
+# Open WebUI Link : https://openwebui.com/m/aadya/humorbot/
 
 # How the Model Works?
 Prompt : Hi . how are you ?
